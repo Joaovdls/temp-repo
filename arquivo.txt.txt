@@ -1,4 +1,10 @@
 Teste
 
 
-testando novamente
+
+git config --global user.name 
+git config --global user.email 
+git remote add origin 
+git commit -m 'Initial'
+
+testeando novamente
